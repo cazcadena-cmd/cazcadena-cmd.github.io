@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.cazcadena.sofyapp",
+        "sha256_cert_fingerprints": ["36:B2:A8:CB:BE:59:B7:CB:48:2F:22:DE:7E:DE:8C:FB:23:0C:16:37:75:19:7D:5A:1C:DC:A4:B5:94:BF:93:57"]
+      }
+    }]
